@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marttinroman
-- 👀 I’m interested in ... Java, Selenium, Cucumber, Gherkin, Python, Arduino,AI, Computer Science.
+- 👀 I’m interested in ... Java, Selenium, Cucumber, Gherkin, , Python, JavaScript, Arduino,AI, Computer Science.
 - 🌱 I’m currently learning ... Cucumber-Java
 - 💞️ I’m looking to collaborate on ... Forge Project (near future)
 - 📫 How to reach me ... marttinroman@gmail.com
