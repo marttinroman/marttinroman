@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marttinroman
-- 👀 I’m interested in ... Java, Selenium, Cucumber, Gherkin, TestLink, Python, JavaScript, Arduino, AI, IoT, Computer Science.
-- 🌱 I’m currently learning ... TestLink
+- 👀 I’m interested in ... Java, Selenium, Cucumber, Gherkin, TestLink, JavaScript, API Web Services, API Testing, AI, Data Science, Python, IoT, Arduino.
+- 🌱 I’m currently learning ... Postman
 - 💞️ I’m looking to collaborate on ... Forge Project (near future)
 - 📫 How to reach me ... marttinroman@gmail.com
 
