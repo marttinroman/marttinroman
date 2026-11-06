@@ -88,9 +88,19 @@ Click on any of the three pillars to explore in-depth methodologies, architectur
 
 ## 🏆 Official Google Cloud Badges
 
+<div align="center">
+
+<a href="https://www.credly.com/badges/6707abbc-0e2a-4426-bba5-47c54838c895" target="_blank" rel="noopener noreferrer">
+  <img src="https://images.credly.com/size/340x340/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" width="130" alt="Google Cloud Computing Foundations Certificate" />
+</a>
+
+<br />
+
 [![Google Cloud Badges](https://img.shields.io/badge/Google_Cloud-Badges_Profile-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/1baf72bb-ccba-42b3-aa78-cc665f773841)
 [![Credly Profile](https://img.shields.io/badge/Credly-Badges_Profile-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/marttin-roman/badges/credly)
 [![Google Cloud Computing Foundations](https://img.shields.io/badge/Credly-Foundations_Certificate-0078D7?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/badges/6707abbc-0e2a-4426-bba5-47c54838c895)
+
+</div>
 
 * 🏅 **Generative AI Fundamentals** & **Introduction to Large Language Models (LLMs)**
 * 🏅 **Introduction to Generative AI** & **Introduction to Image Generation**

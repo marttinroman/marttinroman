@@ -63,6 +63,15 @@ flowchart TD
 ---
 
 ## 🎓 Credentials & Official Google Cloud Badges
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/6707abbc-0e2a-4426-bba5-47c54838c895" target="_blank" rel="noopener noreferrer">
+  <img src="https://images.credly.com/size/340x340/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" width="120" alt="Google Cloud Computing Foundations Certificate" />
+</a>
+
+</div>
+
 Continuous specialization verified by Google Cloud:
 * 🏅 **Introduction to Generative AI**
 * 🏅 **Introduction to Large Language Models (LLMs)**
