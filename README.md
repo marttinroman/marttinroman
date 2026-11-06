@@ -8,7 +8,7 @@
 
 <div align="center">
 
-# Martín Ely Román Tabata
+# Marttin Ely Roman Tabata
 ### **QA Automation SDET &nbsp;|&nbsp; AI Agentic Engineer &nbsp;|&nbsp; Backend Developer**
 
 Systems Engineer specializing in continuous quality (**Shift-Left Testing**), **Agentic AI systems architecture**, and resilient **backend development**.
@@ -136,5 +136,5 @@ Click on any of the three pillars to explore in-depth methodologies, architectur
 ---
 
 <div align="center">
-  <sub>Engineered with a modular architecture • © 2026 Martín Román</sub>
+  <sub>Engineered with a modular architecture • © 2026 Marttin Roman</sub>
 </div>
