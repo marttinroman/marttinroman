@@ -24,6 +24,8 @@ Systems Engineer specializing in continuous quality (**Shift-Left Testing**), **
 
 ---
 
+<div align="center">
+
 https://github.com/user-attachments/assets/778173d0-dbc7-40e4-b293-51963bf500f1
 
 </div>
