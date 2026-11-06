@@ -24,6 +24,12 @@ Systems Engineer specializing in continuous quality (**Shift-Left Testing**), **
 
 ---
 
+https://github.com/user-attachments/assets/778173d0-dbc7-40e4-b293-51963bf500f1
+
+</div>
+
+---
+
 ## 🧭 Core Pillars of Expertise
 
 Click on any of the three pillars to explore in-depth methodologies, architectures, and real-world experience:
