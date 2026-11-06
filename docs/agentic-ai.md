@@ -69,7 +69,12 @@ Continuous specialization verified by Google Cloud:
 * 🏅 **Generative AI Fundamentals**
 * 🏅 **Introduction to Image Generation & Encoder-Decoder Architecture**
 * 🏅 **Responsible AI: Applying AI Principles with Google Cloud**
-* 🏅 **Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud**
+* 🏅 [**Google Cloud Computing Foundations Certificate**](https://www.credly.com/badges/6707abbc-0e2a-4426-bba5-47c54838c895): Data, ML, and AI in Google Cloud
+
+**Public Verifications & Credential Links:**
+* 🌐 [Google Cloud Badges](https://www.skills.google/public_profiles/1baf72bb-ccba-42b3-aa78-cc665f773841)
+* 📜 [Google Cloud Computing Foundations Certificate](https://www.credly.com/badges/6707abbc-0e2a-4426-bba5-47c54838c895)
+* 🎖️ [Marttin Roman Credly Badges](https://www.credly.com/users/marttin-roman/badges/credly)
 
 ---
 
