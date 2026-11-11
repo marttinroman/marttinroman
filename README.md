@@ -9,9 +9,9 @@
 <div align="center">
 
 # Marttin Ely Roman Tabata
-### **QA Automation SDET &nbsp;|&nbsp; AI Agentic Engineer &nbsp;|&nbsp; Backend Developer**
+### **🤖 AI Agentic Engineer ⚙️ Backend Developer 💻 QA Automation SDET 🧪**
 
-Systems Engineer specializing in continuous quality (**Shift-Left Testing**), **Agentic AI systems architecture**, and resilient **backend development**.
+Backend Developer, AI Agentic Engineer and SDET specializing in scalable architectures, robust API integrations, and AI evaluation (LLMs/RAG). Bridging core development and quality automation with modern CI/CD and Shift-Left testing. 
 
 <br />
 
